@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SoundManagerLibray</string>
+
+    <string name="btn_start_record">Start record</string>
+    <string name="btn_stop_record">Stop record</string>
+
+    <string name="btn_start_play">Play sound</string>
+    <string name="btn_stop_play">Stop play</string>
+
+    <string name="swt_audio_mode_speaker">Speaker</string>
+    <string name="swt_audio_mode_earpiece">Earpiece</string>
+</resources>
